@@ -5,5 +5,5 @@ Project Description
 The Bihar Tourism Landing Page is a responsive and interactive website that showcases the beauty and cultural richness of Bihar. It features information about various tourist attractions, historical sites, festivals, and travel tips to help visitors plan their trips to Bihar. The landing page aims to attract tourists and provide them with all the necessary information in an easy-to-navigate format.
 
 Technologies Used
-HTML5
-CSS3
+HTML
+CSS
